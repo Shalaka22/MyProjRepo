@@ -1,0 +1,6 @@
+D:\Git\MyGitHubProject\MyGitHubProject\bin\Debug\MyGitHubProject.dll
+D:\Git\MyGitHubProject\MyGitHubProject\bin\Debug\MyGitHubProject.pdb
+D:\Git\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.csproj.AssemblyReference.cache
+D:\Git\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.csproj.CoreCompileInputs.cache
+D:\Git\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.dll
+D:\Git\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.pdb
